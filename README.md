@@ -94,4 +94,3 @@ En düşük skorlu düğüm seçilerek hedefe ulaşılır.
 
 ## ⭐ Katkı
 
-Projeyi geliştirmek istersen fork edip katkıda bulunabilirsin.
